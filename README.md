@@ -1,4 +1,5 @@
-Project Website Link <a href="https://clone-the-twitter.netlify.app/">Clone-Twitter<a/>
+<h2>Project Website Link <a href="https://clone-the-twitter.netlify.app/"> Clone-Twitter<a/><h2/>
+<img src="https://github.com/WesleyMsilva/Clone-Twitter/blob/main/Captura%20de%20tela%202022-04-11%20160136.png"/>
 
 # Getting Started with Create React App
 
